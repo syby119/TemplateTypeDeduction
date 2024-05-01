@@ -1,0 +1,7 @@
+{
+    "name": "template-type-deduction",
+    "version": "1.0.0",
+    "dependencies":[
+        "boost-type-index"
+    ]
+}
